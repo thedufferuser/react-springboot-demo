@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ReactSpringbootDemoApplication<react-springboot-demo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.adycodes.reactspringbootdemo.ReactSpringbootDemoApplication",
+      "projectName": "react-springboot-demo",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
